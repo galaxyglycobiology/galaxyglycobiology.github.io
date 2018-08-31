@@ -5,7 +5,7 @@
 GalaxyG is a community interested in creating and sharing glycobiology and glycobioinformatics tools for use with the Galaxy Project.
 
 ## Current Initiatives
-- Galaxy Glycobioinformatics in a box. Leverage from https://github.com/bgruening/docker-galaxy-stable and https://github.com/bgruening/docker-galaxy-chemicaltoolbox and https://bitbucket.org/scientificomputing/glycome-analytics-platform/overview . Include datatypes and wrappers.
+- [Galaxy Glycobioinformatics in a box](https://github.com/galaxyglycobiology/docker-galaxy-glycobiology-gap) . Leverage from https://github.com/bgruening/docker-galaxy-stable and https://github.com/bgruening/docker-galaxy-chemicaltoolbox and https://bitbucket.org/scientificomputing/glycome-analytics-platform/overview . Include datatypes and wrappers.
 
 
 # Support
